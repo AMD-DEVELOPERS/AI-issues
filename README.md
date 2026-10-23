@@ -236,6 +236,14 @@ python -m vllm.entrypoints.openai.api_server --model Qwen/Qwen3-8B ...
 
 ---
 
+## 技术文章译文
+
+下面是提交到本仓库的 AMD 技术文章中文译文，方便中文读者查阅。复现时请以原文的命令和数字为准。
+
+- [发布当天，EAGLE-4 就能在 AMD Instinct GPU 上跑](articles/eagle-4-on-amd-instinct-gpus.md)（2026-10-20，[原文](https://www.amd.com/en/developer/resources/technical-articles/2026/eagle-4-on-amd-instinct-gpus.html)）
+
+---
+
 ## License
 
 本仓库用于问题收集与跟踪，Issue 内容遵循 GitHub 默认条款。提交 Issue 即表示你同意问题描述可能被用于内部复现与修复。
